@@ -7,6 +7,7 @@
 #include "./ds/test_seg_tree.cpp"
 #include "./math/test_bin_pow.cpp"
 #include "./math/test_comb.cpp"
+#include "./math/test_crt.cpp"
 #include "./math/test_ex_gcd.cpp"
 #include "./math/test_fft.cpp"
 #include "./math/test_mod_int.cpp"
